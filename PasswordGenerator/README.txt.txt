@@ -1,0 +1,1 @@
+Generates a password using four random English words. Inspired from https://xkcd.com/936/.
